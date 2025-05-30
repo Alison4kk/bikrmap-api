@@ -6,6 +6,10 @@ const rotas = [
   {
     bairro: "Bela Vista",
     pontos: ["Rua D", "Rua E"]
+  },
+  {
+    bairro: "Feia Vista",
+    pontos: ["Rua A", "Rua E"]
   }
 ];
 
